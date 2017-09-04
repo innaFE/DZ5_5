@@ -1,0 +1,155 @@
+.body{
+    width: 700px;
+    height: 1650px;
+    background-color: #d1d1d1;
+    position: absolute;
+    margin-left: 25%;
+    
+}
+
+.fullwrap{
+    width: 650px;
+    height: 1500px;
+    background-color: #ffffff;
+    margin-top:40px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.header{
+    height: 150px;
+    width: 650px;
+   
+}
+.friends{
+    text-align: center;
+     font-size: 19px;
+     display: block;
+     font-family: Myriad Pro;
+     margin-top: 30px;
+}
+
+.text{
+font-family: Myriad Pro;
+ text-align: left;
+ padding-left: 50px;
+ padding-right: 75px;
+ font-size: 19px;
+}
+.box1 {
+	display: inline-block;
+	width: 650px;
+	height: 400px;
+    margin-top: 35px;
+}
+
+.offer1{
+     width: 255px;
+    float: left;
+padding-left: 50px;
+}
+
+.offer2{
+     width: 255px;
+    float: left;
+    padding-left: 60px;
+	
+}
+
+.button {
+height: 40px;
+	width: 250px;
+	color: white;
+	background-color: #cf5b4e;
+    border-radius: 10px;
+    border:none;
+    margin-top: 25px;
+}
+
+.box2 {
+	display: inline-block;
+	width: 650px;
+	height: 400px;
+    margin-top: 35px;
+}
+
+.offer3{
+    width: 160px;
+    float: left;
+    padding-left: 50px;
+	padding-top: 30px;
+}
+
+.offer4{
+    width: 160px;
+    float: left;
+    padding-left: 40px;
+	padding-top: 30px;
+	
+}
+
+.offer5{
+    width: 160px;
+    float:left ;
+    padding-left: 40px;
+	padding-top: 30px;
+	
+}
+.button2 {
+height: 40px;
+	width: 158px;
+	color: white;
+	background-color: #cf5b4e;
+    border-radius: 10px;
+    border:none;
+    margin-top: 25px;
+}
+
+.button4 {
+height: 40px;
+	width: 158px;
+	color: white;
+	background-color: #cf5b4e;
+    border-radius: 10px;
+    border:none;
+    margin-top: 8px;
+}
+.footer{
+    padding-top:30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    clear: both;
+    font-family:Myriad Pro;
+    font-size: 17px;
+}
+
+.button3 {
+height: 40px;
+	width: 555px;
+	color: white;
+	background-color: #cf5b4e;
+    border-radius: 10px;
+    border:none;
+    margin-top: 40px;
+    font-family:Myriad Pro;
+    font-size: 17px;
+}
+.unsubcribe {
+	text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-size: 14px;
+}
+.a_unsubcribe {
+	color: white;
+}
+
+.i1 ,.i2{
+    width: 255px;
+    height: 215px;
+}
+
+.i3 ,.i4 ,.i5{
+    width: 160ppx;
+    height: 212px;
+} 
