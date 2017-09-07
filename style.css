@@ -32,11 +32,10 @@ font-family: Myriad Pro;
  padding-right: 75px;
  font-size: 19px;
 }
-.box1 {
+.content1 {
 	display: inline-block;
 	width: 650px;
-	height: 400px;
-    margin-top: 35px;
+	height: 300px;
 }
 
 .offer1{
@@ -62,10 +61,10 @@ height: 40px;
     margin-top: 25px;
 }
 
-.box2 {
+.content2 {
 	display: inline-block;
 	width: 650px;
-	height: 400px;
+    height: 400px;
     margin-top: 35px;
 }
 
